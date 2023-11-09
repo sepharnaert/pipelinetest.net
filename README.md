@@ -35,4 +35,4 @@ This project is a very simple e-commerce website for sports products.
 3. Run the unit tests for the domain: `dotnet test tests/Domain/Domain.csproj`
 
 
-test 2
+test 3
